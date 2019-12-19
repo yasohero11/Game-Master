@@ -1,0 +1,32 @@
+{
+    "name": "game",
+    "version": "1.0.0",
+    "description": "gaming website",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abdosoltan349/game.git"
+    },
+    "keywords": [
+        "gaming"
+    ],
+    "author": "Abdulrahman Sultan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/abdosoltan349/game/issues"
+    },
+    "homepage": "https://github.com/abdosoltan349/game#readme",
+    "dependencies": {
+        "alert-node": "^2.0.3",
+        "body-parser": "^1.19.0",
+        "ejs": "^3.0.1",
+        "express": "^4.17.1",
+        "firebase": "^7.6.0",
+        "firebase-admin": "^8.8.0",
+        "firebase-tools": "^7.10.0",
+        "include-html": "^1.2.1"
+    }
+}
